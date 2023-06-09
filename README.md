@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amineyv
-- 👀 I’m interested in python, Data Science, ML and Django
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Python, Linux
+
 - 📫 How to reach me amineyvazlou@gmail.com
 
 <!---
